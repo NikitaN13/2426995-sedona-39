@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Никита Ненашев](https://up.htmlacademy.ru/htmlcss/39/user/2426995).
-* Наставник: [Иван Жарков] (https://htmlacademy.ru/profile/id191422).
-* Сайт: [Мой проект Сидона] (https://nikitan13.github.io/2426995-sedona-39/)
+* Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
+* Сайт: [Мой проект Сидона](https://nikitan13.github.io/2426995-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
